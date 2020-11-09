@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <title>Resume | Aditya Upadhyay</title>
+    <style></style>
+  </head>
+  <body>
+    <div class="container mt-5">
+      <div class="Header container mt-4">
+        <h2>Aditya Upadhyay</h2>
+        <p class="my-0">4th Year CSE at SRM KTR</p>
+        <p class="my-0">Gmail : aa9778@srmist.edu.in</p>
+      </div>
+      <div class="container education mt-3">
+        <h2>Education Details</h2>
+        <ul>
+          <li>Btech - SRM IST CHENNAI: CGPA 9.71</li>
+          <li>12th Avadh International School : 87 %</li>
+          <li>10th Avadh International School : 9 cgpa</li>
+        </ul>
+      </div>
+      <div class="container skills mt-3">
+        <h2>Technical Skills</h2>
+        <div class="row">
+          <div class="col-3 col-md-2">C programming</div>
+          <div class="col-3 col-md-2">Operating System</div>
+          <div class="col-3 col-md-2">OOAD</div>
+          <div class="col-3 col-md-2">Python</div>
+          <div class="col-3 col-md-2">DBMS</div>
+          <div class="col-3 col-md-2">Computer Networks</div>
+        </div>
+      </div>
+      <div class="container mt-3">
+        <h2>Extra Curricular</h2>
+        <ul>
+          <li>Singing song</li>
+          <li>Photography</li>
+          <li>Reading books</li>
+        </ul>
+
+        <p><span class="h5">Language Known</span> : Hindi , English , French</p>
+      </div>
+    </div>
+  </body>
+</html>
